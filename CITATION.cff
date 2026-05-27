@@ -1,19 +1,16 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this software, please cite it using the metadata from this file."
 authors:
   - family-names: Bouchaffra
     given-names: Djamel
-    orcid: https://orcid.org/0000-0000-0000-0000   # Replace with actual ORCID if you have one
+    orcid: "https://orcid.org/0000-0002-9850-907X"
   - family-names: Ykhlef
     given-names: Faycal
   - family-names: Lebbah
     given-names: Mustapha
   - family-names: Azzag
     given-names: Hanane
-title: "Coalition Free Energy and Adaptive Precision in Multi‑Agent Cooperation"
-version: v1.0.0
+title: "Coalition Free Energy and Adaptive Precision in Multi-Agent Cooperation"
+version: v1.0.2
 date-released: 2026-05-27
-url: "https://github.com/dbouchaffra/coalition-free-energy-adaptive-precision"
-repository-code: "https://github.com/dbouchaffra/coalition-free-energy-adaptive-precision"
-abstract: "Variational framework for multi-agent cooperation using coalition free energy and adaptive precision control. Implements GT-FEP, inverted-U credit assignment, and APC algorithm."
 license: MIT
