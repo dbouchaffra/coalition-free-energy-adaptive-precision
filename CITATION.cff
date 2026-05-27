@@ -1,4 +1,5 @@
-cff-version: 1.2.0
+yaml
+cff-version: 1.3.0
 message: "If you use this software, please cite it using the metadata from this file."
 authors:
   - family-names: Bouchaffra
@@ -11,6 +12,6 @@ authors:
   - family-names: Azzag
     given-names: Hanane
 title: "Coalition Free Energy and Adaptive Precision in Multi-Agent Cooperation"
-version: v1.0.2
+version: v1.0.3
 date-released: 2026-05-27
 license: MIT
